@@ -1,0 +1,38 @@
+[
+  {
+    "key": "gloves",
+    "name": "Guantes"
+  },
+  {
+    "key": "headgear",
+    "name": "Cascos"
+  },
+  {
+    "key": "bag",
+    "name": "Bolsas"
+  },
+  {
+    "key": "footwear",
+    "name": "Calzado"
+  },
+  {
+    "key": "vest",
+    "name": "Chalecos"
+  },
+  {
+    "key": "mask",
+    "name": "Mascarillas"
+  },
+  {
+    "key": "eyewear",
+    "name": "Lentes"
+  },
+  {
+    "key": "harness",
+    "name": "Arneses"
+  },
+  {
+    "key": "belt",
+    "name": "Cinturones"
+  }
+]

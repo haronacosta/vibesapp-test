@@ -1,0 +1,12 @@
+[
+  { "id": "p1", "name": "Guantes GN102", "price": 59.9, "isAvailable": true, "category": "gloves", "image": "/assets/images/guantes1.jpg" },
+  { "id": "p2", "name": "Casco CS433",  "price": 79.9, "isAvailable": false, "category": "headgear", "image": "/assets/images/arnes1.jpg" },
+  { "id": "p3", "name": "Bolsa AC990",   "price": 24.5, "isAvailable": true, "category": "bag", "image": "/assets/images/bolsa1.jpg" },
+  { "id": "p4", "name": "Botas BT205", "price": 129.9, "isAvailable": true, "category": "footwear", "image": "/assets/images/bolsa2.jpg" },
+  { "id": "p5", "name": "Chaleco CH101", "price": 89.5, "isAvailable": true, "category": "vest", "image": "/assets/images/chaleco1.jpg" },
+  { "id": "p6", "name": "Mascarilla MS001", "price": 15.9, "isAvailable": false, "category": "mask", "image": "/assets/images/guantes3.jpg" },
+  { "id": "p7", "name": "Lentes LG301", "price": 45.0, "isAvailable": true, "category": "eyewear", "image": "/assets/images/lentes1.jpg" },
+  { "id": "p8", "name": "Arnés AR505", "price": 199.9, "isAvailable": true, "category": "harness", "image": "/assets/images/arnes1.jpg" },
+  { "id": "p9", "name": "Cinturón CT202", "price": 34.5, "isAvailable": true, "category": "belt", "image": "/assets/images/correa1.jpg" },
+  { "id": "p10", "name": "Casco CS200", "price": 65.0, "isAvailable": false, "category": "headgear", "image": "/assets/images/arnes1.jpg" }
+]
