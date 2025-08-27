@@ -1,9 +1,0 @@
-{
-  "files": [],
-  "references": [
-    { "path": "./shared" },
-    { "path": "./web" },
-    { "path": "./api" }
-  ],
-  "forceConsistentCasingInFileNames": true
-}
