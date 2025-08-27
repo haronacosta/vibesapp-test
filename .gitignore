@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+.env
+
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+# Next.js
+web/.next/
+web/.env.local
+web/.env
+web/node_modules/
+web/coverage/
+web/.DS_Store
+web/.idea/
+web/.vscode/
+web/.sublime*
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Jest
+coverage/
+
+# VSCode
+.vscode/
+
+# Misc
+*.local
+*.sublime*
+.idea/
+
+# Ignore local data
+api/data/*.json
+!api/data/categories.json
+!api/data/products.json
