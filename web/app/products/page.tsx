@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { Product, ProductQueryParams, Category } from "../../shared-types";
-import { getTopCheapestAvailable } from "../../utils/products";
+import { getTopCheapestAvailable } from "../../shared-types";
 import { apiClient } from "../../lib/api";
 import ProductCard from "../components/ProductCard";
 
